@@ -1,2 +1,2 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+Hi, I'm Matt Messa. I'm a computer science major at Chico State. Fitness is my favorite activity and my number one passion, and programming is something that I find fun and love to do. My dream would be to find a way to combine the two things I love most into a career. 
